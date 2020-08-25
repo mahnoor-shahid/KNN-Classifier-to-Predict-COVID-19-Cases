@@ -29,8 +29,3 @@ This project uses **Jupyter Notebook** to create a model for predicting whether 
  # Created By
  **Mahnoor Shahid** - Initial work
  - Linkedin Profile - https://www.linkedin.com/in/mahnoor-v20399/
-<<<<<<< HEAD
-
- 
-=======
->>>>>>> master
